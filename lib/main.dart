@@ -5,7 +5,6 @@ import 'splash_screen.dart';
 void main() {
   runApp(MyApp());
 }
-//note
 
 class MyApp extends StatelessWidget {
   @override
@@ -74,7 +73,8 @@ class _MainScreenState extends State<MainScreen> {
   @override
   void initState() {
     super.initState();
-    filteredRecipes = recipes.keys.toList(); // Show all recipes initially
+    // to show all the recipes initially
+    filteredRecipes = recipes.keys.toList();
   }
 
   @override

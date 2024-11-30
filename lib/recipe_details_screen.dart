@@ -14,7 +14,7 @@ class RecipeDetailsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     if (favorites != null) {
-      // Display favorites list
+      // Display the favorites list
       return Scaffold(
         appBar: AppBar(
           title: Text('Favorites'),
