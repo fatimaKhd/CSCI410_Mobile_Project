@@ -5,6 +5,7 @@ import 'splash_screen.dart';
 void main() {
   runApp(MyApp());
 }
+//note
 
 class MyApp extends StatelessWidget {
   @override
