@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// Recipes Screen
+
 class RecipeDetailsScreen extends StatelessWidget {
   final String recipeName; // For single recipe or favorites
   final List<String>? favorites; // List of favorite recipes

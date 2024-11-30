@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'recipe_details_screen.dart';
 import 'splash_screen.dart';
 
+// Mobile Project Main
+
 void main() {
   runApp(MyApp());
 }

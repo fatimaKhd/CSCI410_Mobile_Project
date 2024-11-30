@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'main.dart';
 
+// Loading Screen
+
 class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
